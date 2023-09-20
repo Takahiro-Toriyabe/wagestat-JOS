@@ -6,7 +6,7 @@ This repository provides the codes to replicate Daiji Kawaguchi and Takahiro Tor
 
 ### Dataset
 
-We are not allowed to share the microdata used in the paper. The application procedure for the usage of the microdata is explained [here](https://www.e-stat.go.jp/microdata/). To see the directory setting for those microdata, please check do-files in `wagestat-JOS/src/do/import/`.
+We are not allowed to share the microdata used in the paper. The application procedure for the usage of the microdata is explained [here](https://www.e-stat.go.jp/microdata/). Access to the administrative tax data of a local government was given through the project "Academic infrastructure development of administrative data from local governments and application for economic analysis" (PI: Ayako Kondo). To see the directory settings for those microdata, please check do-files in `wagestat-JOS/src/do/import/`.
 
 ### Program depenency
 
